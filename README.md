@@ -5,9 +5,9 @@ gerando um DUMP de uma base de dados e importar um DUMP MySQL para o seu servido
 Durante o treinamento foi usado as ferramentas: MySQL Workbench, Wamp ou Xampp e o PHPMyAdmin.
 
 Nesse treinamento é ensinado a:
-Criar um banco de dados
+##Criar um banco de dados
 Inserir dados em uma tabela
-Alterar a estrutura de uma tabela
+##Alterar a estrutura de uma tabela
 Manipular linhas de uma tabela
 Como utilizar o comando SELECT
 Como gerar uma Chave Estrangeira
